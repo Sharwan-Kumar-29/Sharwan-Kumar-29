@@ -20,6 +20,6 @@
 - Debugging, testing, and scaling web apps effectively
 
 ### 📫 Let's Connect
-📍 [LinkedIn](https://www.linkedin.com)  
-🌐 [Portfolio](https://your-portfolio.com)
+📍 [LinkedIn](https://www.linkedin.com/in/sharwankumarenjay/)  
+🌐 [Portfolio](https://sharwan-portfolio.netlify.app/)
 
