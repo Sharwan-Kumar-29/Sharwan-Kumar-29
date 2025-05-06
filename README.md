@@ -1,12 +1,25 @@
-- 👋 Hi, I’m Sharwan Kumar
-- 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning AI and ML
-- 💞️ I’m looking to collaborate on AI and ML projects
-- 📫 How to reach me sharwankumar29998@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👋 Hello! I'm Sharwan Kumar
 
-<!---
-Sharwan-Kumar-29/Sharwan-Kumar-29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 A passionate developer with a strong curiosity for building and breaking things in tech!  
+🧠 Pursuing my **MSc in AI & ML**, while mastering the **MERN Stack** to become a well-rounded full stack web developer.
+
+### 💡 What I Love
+- Solving **DSA challenges** to sharpen my logical thinking  
+- Building **interactive UIs** and clean user experiences  
+- Diving deep into **backend logic**, APIs, and databases  
+- Exploring how **data** can drive smart decision-making
+
+### 🛠️ Tech I'm Comfortable With
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, SQL  
+- **Other:** Web Scraping, Power BI, Regex, Advanced Excel
+
+### 🚀 Currently Learning
+- Real-time APIs, server-side logic, and cloud deployment  
+- Debugging, testing, and scaling web apps effectively
+
+### 📫 Let's Connect
+📍 [LinkedIn](https://www.linkedin.com)  
+🌐 [Portfolio](https://your-portfolio.com)
+
